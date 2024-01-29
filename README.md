@@ -28,6 +28,7 @@
   <a href="https://www.npmjs.com/package/@excalidraw/excalidraw">
     <img alt="npm downloads/month" src="https://img.shields.io/npm/dm/@excalidraw/excalidraw"  />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSaicharanKandukuri%2Fexcalidraw?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSaicharanKandukuri%2Fexcalidraw.svg?type=shield"/></a>
   <a href="https://docs.excalidraw.com/docs/introduction/contributing">
     <img alt="PRs welcome!" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"  />
   </a>
@@ -51,6 +52,9 @@
     </figcaption>
   </figure>
 </div>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSaicharanKandukuri%2Fexcalidraw.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSaicharanKandukuri%2Fexcalidraw?ref=badge_large)
 
 ## Features
 
