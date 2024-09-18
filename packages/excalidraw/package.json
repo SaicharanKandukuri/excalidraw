@@ -81,7 +81,7 @@
     "points-on-curve": "1.0.1",
     "pwacompat": "2.0.17",
     "roughjs": "4.6.4",
-    "sass": "1.51.0",
+    "sass": "1.79.0",
     "tunnel-rat": "0.1.2"
   },
   "devDependencies": {
